@@ -1,7 +1,0 @@
-a8-42-a1-5a-fc-cc AAAAAC AAAAAC tapo
-34-60-f9-fd-73-7a AAAAAA AAAAAA tapo
-3c-52-a1-31-68-a7 AAAAAD AAAAAD tapo
-3c-52-a1-31-62-6e AAAAAE AAAAAE tapo
-a8-42-a1-5b-0f-ea AAAAAB AAAAAB tapo
-6c-1c-71-53-c7-bc admin L2B2809F IMOU
-d4-43-0e-e9-b9-cc admin L28AFA67 Dahua
