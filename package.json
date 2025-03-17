@@ -1,0 +1,13 @@
+{
+    "name": "camscan",
+    "version": "1.0.0",
+    "description": "IP Camera Scanner",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "node-ssdp": "^4.0.1"
+    }
+}
